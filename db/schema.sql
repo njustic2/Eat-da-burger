@@ -1,3 +1,8 @@
+DROP DATABASE IF EXISTS natej_DB;
+
+CREATE database natej_DB;
+
+USE natej_DB;
 -- Burger Schema =============================================
 
 CREATE TABLE burgers (

@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DustinSiegel/burger.git"
+    "url": "git+https://github.com/njustic2/Eat-da-burger"
   },
-  "author": "Dustin Siegel <www.dustinsiegelemail@gmail.com>",
+  "author": "Nathan Justice <www.natwave2@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DustinSiegel/burger/issues"
+    "url": "https://github.com/njustic2/Eat-da-burger/burger/issues"
   },
-  "homepage": "https://github.com/DustinSiegel/burger#readme",
+  "homepage": "https://github.com/njustic2/Eat-da-burger#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",

@@ -1,6 +1,6 @@
-INSERT INTO burgers SET burger_name='Pink Slime Surprise', devoured=false;
-INSERT INTO burgers SET burger_name='100,000 pounder w/ cheese', devoured=false;
-INSERT INTO burgers SET burger_name='The ChokeItDown vegan burger', devoured=false;
+INSERT INTO burgers SET burger_name='Pink delight Wonder', devoured=false;
+INSERT INTO burgers SET burger_name='Make you fat with butter', devoured=false;
+INSERT INTO burgers SET burger_name='Vegeterian burger delight', devoured=false;
 
 
 SELECT * FROM burgers;

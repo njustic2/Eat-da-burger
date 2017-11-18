@@ -4,10 +4,10 @@ var mysql = require("mysql");
 // Check to see if there is a connection and if not set one up ========================================================
   connection = mysql.createConnection({
     port: 3306,
-    host: "codeflink.net",
-    user: "dustinsiegel",
-    password: "X3LwzmZHIB1C",
-    database: "dustinsiegel"
+    host: "localhost",
+    user: "root",
+    password: "competitor",
+    database: "natej_DB"
   })
 
 // var connection = mysql.createConnection({
